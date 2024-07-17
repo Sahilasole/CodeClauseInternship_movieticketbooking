@@ -52,17 +52,17 @@ Connection conn=null;
         jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jLabel1.setText("NAME");
         getContentPane().add(jLabel1);
-        jLabel1.setBounds(135, 128, 110, 28);
+        jLabel1.setBounds(135, 128, 110, 29);
 
         jLabel2.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jLabel2.setText("EMAIL ID");
         getContentPane().add(jLabel2);
-        jLabel2.setBounds(135, 184, 140, 28);
+        jLabel2.setBounds(135, 184, 140, 29);
 
         jLabel3.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jLabel3.setText("PASSWORD");
         getContentPane().add(jLabel3);
-        jLabel3.setBounds(135, 309, 150, 28);
+        jLabel3.setBounds(135, 309, 150, 29);
 
         jTextField1.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
@@ -71,7 +71,7 @@ Connection conn=null;
             }
         });
         getContentPane().add(jTextField1);
-        jTextField1.setBounds(343, 129, 190, 34);
+        jTextField1.setBounds(343, 129, 190, 35);
 
         jTextField2.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         getContentPane().add(jTextField2);
@@ -89,17 +89,17 @@ Connection conn=null;
             }
         });
         getContentPane().add(jButton1);
-        jButton1.setBounds(200, 380, 220, 41);
+        jButton1.setBounds(200, 380, 220, 40);
 
         jLabel4.setFont(new java.awt.Font("Algerian", 1, 36)); // NOI18N
         jLabel4.setText("NEW REGISTER");
         getContentPane().add(jLabel4);
-        jLabel4.setBounds(160, 30, 300, 47);
+        jLabel4.setBounds(160, 30, 300, 48);
 
         jLabel5.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jLabel5.setText("PHONE NUMBER");
         getContentPane().add(jLabel5);
-        jLabel5.setBounds(135, 250, 200, 28);
+        jLabel5.setBounds(135, 250, 200, 29);
 
         jTextField4.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         getContentPane().add(jTextField4);
